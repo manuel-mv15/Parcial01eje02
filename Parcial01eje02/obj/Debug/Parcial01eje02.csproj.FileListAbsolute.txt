@@ -1,0 +1,7 @@
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\bin\Debug\Parcial01eje02.exe.config
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\bin\Debug\Parcial01eje02.exe
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\bin\Debug\Parcial01eje02.pdb
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\obj\Debug\Parcial01eje02.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\obj\Debug\Parcial01eje02.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\obj\Debug\Parcial01eje02.exe
+C:\Users\Carlo\source\repos\Esturcutra de datos\Computo 1\parcial01\Parcial01eje02\Parcial01eje02\obj\Debug\Parcial01eje02.pdb
